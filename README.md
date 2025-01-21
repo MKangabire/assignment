@@ -12,4 +12,4 @@ This project implements a neural network to classify handwritten digits from the
 
 -Jordan Nguepi
 
-- add your name here
+- Kangabire Muhoza Merveille
